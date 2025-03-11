@@ -1,0 +1,4 @@
+https://github.com/ltdrdata/ComfyUI-Manager
+https://github.com/rgthree/rgthree-comfy
+https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+https://github.com/adieyal/comfyui-dynamicprompts
