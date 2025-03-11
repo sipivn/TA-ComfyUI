@@ -1,0 +1,2 @@
+https://huggingface.co/SG161222/RealVisXL_V5.0_Lightning/resolve/main/RealVisXL_V5.0_Lightning_fp16.safetensors@=RealVisXL_V5.0_Lightning_fp16.safetensor
+https://huggingface.co/SG161222/RealVisXL_V5.0/resolve/main/RealVisXL_V5.0_fp16.safetensors@=RealVisXL_V5.0_fp16.safetensors
