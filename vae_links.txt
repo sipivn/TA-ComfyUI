@@ -1,4 +1,1 @@
-https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors@=clip_tuananh_1.safetensors
-https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors@=clip_tuananh_2.safetensors
-https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors@=clip_tuananh_3.safetensors
-https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors@=clip_tuananh_1.safetensors
+https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors@=clip_l.safetensors
